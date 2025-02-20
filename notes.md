@@ -1,0 +1,3 @@
+- We get more visible distinct clusters when less than 100 and greater, when mixed things get more ambiguous
+- There are some clear outliers in the data, we can try to remove them, see how much they deviate from the general clump of points
+- You can see clustering in PCA more clearly if you set limits on the axes
