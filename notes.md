@@ -1,3 +1,6 @@
 - We get more visible distinct clusters when less than 100 and greater, when mixed things get more ambiguous
 - There are some clear outliers in the data, we can try to remove them, see how much they deviate from the general clump of points
 - You can see clustering in PCA more clearly if you set limits on the axes
+- We can see anomalies in transcript by looking at the normalized transcripts and calculating the lexical diversity
+- Very low diversity, 0.05, show repetitive content, which might be from music videos, confusing the model
+- bow might not be the best representation for this data, we can try to use tf-idf
