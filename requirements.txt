@@ -1,0 +1,13 @@
+ipykernel
+jupyter
+matplotlib
+numpy
+pandas
+scipy
+scikit-learn
+nltk
+seaborn
+sentence-transformers
+torch
+tqdm
+transformers
