@@ -4,3 +4,9 @@
 - We can see anomalies in transcript by looking at the normalized transcripts and calculating the lexical diversity
 - Very low diversity, 0.05, show repetitive content, which might be from music videos, confusing the model
 - bow might not be the best representation for this data, we can try to use tf-idf
+- Clusters on graph look much more promising for embedding based clusterings
+- inertia performs better when two corpuses are clustered individually, clustering all together results in a higher inertia. Inertia almost doubles, this might also be because we consider twice as many data points
+- silhouette score is low for all corporas, we need a way to separate the clusters more, it is average performance right now, slightly better for less than 100 words corpus
+- We could try to remove more common words and start incorporating document length normalization
+- A higher value of CH indicates a better clustering, because it means that the data points are more spread out between clusters than they are within clusters.
+- I think we need to take another look at normalization to prioritize more context bearing tokens
