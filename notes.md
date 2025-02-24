@@ -9,4 +9,11 @@
 - silhouette score is low for all corporas, we need a way to separate the clusters more, it is average performance right now, slightly better for less than 100 words corpus
 - We could try to remove more common words and start incorporating document length normalization
 - A higher value of CH indicates a better clustering, because it means that the data points are more spread out between clusters than they are within clusters.
-- I think we need to take another look at normalization to prioritize more context bearing tokens
+- I think we need to take another look at preprocessing to prioritize more context bearing tokens
+- We can also try applying hierarchical clustering, LSA
+- silhouette, how well clusters are separated, better defined clusters
+- davies, similarity between clusters
+- calinski, well separated, dense clusters
+- create document embeddings by weighting each word embedding with its tf-idf value and normalize by document length
+- how can we handle out of vocabulary words? we can train fasttext on the corpus
+- ensemble, find different embeddings through different techniques, average to make a decision
