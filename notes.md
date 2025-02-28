@@ -17,3 +17,15 @@
 - create document embeddings by weighting each word embedding with its tf-idf value and normalize by document length
 - how can we handle out of vocabulary words? we can train fasttext on the corpus
 - ensemble, find different embeddings through different techniques, average to make a decision
+
+- Very clear clusters are about mechanic diy / car review, religion, rap a lot of profanities, cooking/baking, gaming
+- A good cluster amount seems in range 10, 20. Even getting closer to 20 topics start to degrade
+- Removing stopwords after training is just as effective as removing them before.
+- Removing stopwords simply reduce the amount of probability mass and smoothing of the model caused by frequent non-topic terms
+- Corpus specific stoplists provide little utility, it is sufficient to remove obvious stopwords
+- post-hoc stopword removal can significantly improve coherence
+
+- post-hoc removal helped to identify topics easier, I notice with lower number of clusters, 10-15 some topics are still visible, car, religion, rap, gaming. Increasing cluster size creates more sub-topics, seems like gaming gets split more, and we see more emerging topics like chemistry, math, biology in 30 clusters, but also more non-sense generic classes
+
+- I think post-hoc custom stop removal is very beneficial
+- Some clusters do have significantly more lengthy documents
