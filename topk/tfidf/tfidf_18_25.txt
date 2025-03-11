@@ -1,4 +1,4 @@
-Cluster 0 top 25 words:
+Cluster 0 top 25 words: (car review)
 seat: 39
 vehicle: 36
 control: 35
@@ -25,7 +25,7 @@ u: 15
 steering: 14
 look: 13
 
-Cluster 1 top 25 words:
+Cluster 1 top 25 words: (radio show)
 music: 237
 outro: 19
 q95: 19
@@ -52,7 +52,7 @@ hot: 9
 eagle: 9
 new: 9
 
-Cluster 2 top 25 words:
+Cluster 2 top 25 words: (unknown)
 rain: 508
 good: 485
 boy: 453
@@ -79,7 +79,7 @@ make: 20
 look: 19
 two: 18
 
-Cluster 3 top 25 words:
+Cluster 3 top 25 words: (politic speech, unknown)
 one: 1207
 boom: 924
 see: 848
@@ -106,7 +106,7 @@ ow: 446
 ding: 444
 drop: 443
 
-Cluster 4 top 25 words:
+Cluster 4 top 25 words: (unknown)
 know: 7476
 one: 4609
 right: 4342
@@ -133,7 +133,7 @@ say: 1633
 game: 1613
 actually: 1514
 
-Cluster 5 top 25 words:
+Cluster 5 top 25 words: (religion)
 talk: 441
 joy: 343
 gregory: 276
@@ -160,7 +160,7 @@ holy: 39
 father: 39
 anointing: 36
 
-Cluster 6 top 25 words:
+Cluster 6 top 25 words: (religion)
 jesus: 232
 know: 159
 hell: 120
@@ -187,7 +187,7 @@ time: 29
 make: 26
 youre: 24
 
-Cluster 7 top 25 words:
+Cluster 7 top 25 words: (gaming)
 one: 1433
 know: 1308
 let: 1069
@@ -214,7 +214,7 @@ youre: 470
 need: 460
 stop: 458
 
-Cluster 8 top 25 words:
+Cluster 8 top 25 words: (diss track, hiphop, profanity)
 nigga: 599
 know: 81
 shit: 76
@@ -241,7 +241,7 @@ people: 30
 one: 29
 still: 29
 
-Cluster 9 top 25 words:
+Cluster 9 top 25 words: (profanity, diss track)
 shit: 625
 fucking: 558
 right: 285
@@ -268,7 +268,7 @@ guy: 94
 god: 90
 time: 88
 
-Cluster 10 top 25 words:
+Cluster 10 top 25 words: (math, hw)
 number: 65
 table: 21
 plus: 18
@@ -295,7 +295,7 @@ next: 8
 16: 8
 process: 8
 
-Cluster 11 top 25 words:
+Cluster 11 top 25 words: (unknown)
 run: 470
 right: 377
 god: 338
@@ -322,7 +322,7 @@ look: 92
 ive: 90
 time: 89
 
-Cluster 12 top 25 words:
+Cluster 12 top 25 words: (gaming)
 death: 898
 know: 806
 die: 669
@@ -349,7 +349,7 @@ youre: 206
 need: 193
 back: 189
 
-Cluster 13 top 25 words:
+Cluster 13 top 25 words: (vlog)
 hey: 1588
 guy: 570
 video: 170
@@ -376,7 +376,7 @@ back: 34
 probably: 34
 think: 34
 
-Cluster 14 top 25 words:
+Cluster 14 top 25 words: (fashiontok)
 beautiful: 191
 call: 157
 look: 60
@@ -403,7 +403,7 @@ make: 9
 crochet: 9
 weve: 9
 
-Cluster 15 top 25 words:
+Cluster 15 top 25 words: (unknown)
 know: 4622
 one: 4344
 right: 2943
@@ -430,7 +430,7 @@ there: 1451
 little: 1449
 said: 1433
 
-Cluster 16 top 25 words:
+Cluster 16 top 25 words: (romance)
 love: 339
 never: 327
 wanna: 240
@@ -457,7 +457,7 @@ hold: 27
 youve: 26
 right: 24
 
-Cluster 17 top 25 words:
+Cluster 17 top 25 words: (unknown)
 thunder: 703
 feel: 165
 place: 153

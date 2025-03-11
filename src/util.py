@@ -1,6 +1,28 @@
 from collections import Counter
 
 
+def find_topk_words(df, km, k, remove_custom_stops: bool = True):
+    custom_stops = []
+    if remove_custom_stops:
+        with open("data/custom_stopwords.txt", "r") as f:
+            custom_stops = f.read().splitlines()
+
+    cluster_words = []
+    for i in range(km.n_clusters):
+        cluster_mask = km.labels_ == i
+        cluster_docs = df[cluster_mask]["transcript"].tolist()
+        words = " ".join(cluster_docs).split()
+        wc = Counter(words)
+        if remove_custom_stops:
+            for stop in custom_stops:
+                del wc[stop]
+
+        top_words = wc.most_common(k)
+        cluster_words.append(top_words)
+
+    return cluster_words
+
+
 def save_topk_words(file_prefix, df, kms, k, rg, remove_custom_stops: bool = True):
     custom_stops = []
     if remove_custom_stops:
