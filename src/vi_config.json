@@ -1,0 +1,32 @@
+{
+    "tfidf": {
+      "n_clusters": 18,
+      "n_words": 25,
+      "num_closest_to_center": 5,
+      "random_state": 42
+    },
+    "embedding": {
+      "n_clusters": 18,
+      "n_words": 25,
+      "num_closest_to_center": 5,
+      "random_state": 42,
+      "model_name": "all-MiniLM-L6-v2"
+    },
+    "lda": {
+      "n_clusters": 18,
+      "n_words": 25,
+      "num_closest_to_center": 5,
+      "random_state": 42
+    },
+    "w2v_tfidf": {
+      "n_clusters": 18,
+      "n_words": 25,
+      "num_closest_to_center": 5,
+      "random_state": 42,
+      "word2vec_path": "word2vec_youtube_vectors.kv",
+      "cache_embeddings": true
+    },
+    "random": {
+      "n_clusters": 18
+    }
+}

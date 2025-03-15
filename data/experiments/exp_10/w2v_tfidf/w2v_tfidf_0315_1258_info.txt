@@ -1,0 +1,365 @@
+w2v_tfidf, general info
+n_clusters: 10
+n_words: 25
+num_closest_to_center: 5
+random_state: 42
+
+inertia: 30834.115373168177
+n_iter: 23
+silhouette_score: 0.05804780244282072
+davies_bouldin_score: 2.3672863697879913
+
+TOP WORDS PER CLUSTER:
+CLUSTER 0:
+hey: 1337
+yes: 618
+love: 218
+thank: 192
+sir: 191
+ya: 153
+clap: 124
+know: 115
+talking: 103
+friend: 98
+subscribe: 92
+care: 91
+channel: 87
+please: 86
+say: 85
+video: 79
+guy: 76
+happy: 64
+right: 61
+nick: 59
+see: 57
+one: 56
+bye: 51
+think: 49
+ill: 46
+
+CLUSTER 1:
+know: 804
+stop: 737
+one: 631
+shit: 616
+never: 575
+boy: 560
+fucking: 559
+right: 536
+man: 495
+let: 474
+chill: 436
+cant: 427
+give: 385
+see: 384
+back: 368
+he: 359
+bad: 345
+fuck: 339
+time: 335
+wanna: 335
+stay: 327
+god: 325
+ill: 321
+say: 304
+well: 291
+
+CLUSTER 2:
+know: 6777
+one: 3072
+think: 3066
+right: 2850
+thing: 2459
+see: 2155
+people: 2129
+well: 2067
+time: 1979
+say: 1894
+guy: 1630
+good: 1561
+kind: 1481
+would: 1468
+he: 1457
+mean: 1455
+lot: 1436
+let: 1406
+make: 1376
+back: 1335
+little: 1333
+way: 1331
+something: 1249
+there: 1241
+look: 1236
+
+CLUSTER 3:
+one: 1396
+know: 1061
+also: 981
+people: 950
+time: 923
+see: 848
+thing: 789
+right: 761
+u: 740
+think: 730
+well: 666
+would: 654
+need: 639
+make: 623
+say: 608
+test: 567
+lot: 557
+let: 544
+year: 541
+tax: 530
+first: 524
+way: 497
+two: 493
+take: 470
+good: 466
+
+CLUSTER 4:
+one: 1657
+right: 1054
+well: 940
+back: 923
+see: 867
+know: 853
+good: 770
+time: 762
+let: 756
+little: 740
+two: 681
+look: 662
+make: 661
+first: 660
+think: 596
+thing: 561
+way: 554
+take: 552
+would: 487
+he: 469
+need: 463
+game: 461
+guy: 460
+say: 457
+there: 436
+
+CLUSTER 5:
+god: 2829
+jesus: 1722
+u: 1530
+know: 1406
+lord: 1220
+say: 1205
+one: 1064
+thing: 901
+time: 870
+life: 784
+let: 758
+right: 731
+people: 724
+word: 702
+said: 688
+spirit: 655
+need: 610
+see: 609
+way: 604
+would: 601
+love: 595
+hallelujah: 576
+day: 549
+well: 547
+christ: 506
+
+CLUSTER 6:
+wait: 231
+right: 226
+god: 198
+ready: 120
+one: 94
+know: 80
+he: 78
+let: 73
+see: 67
+good: 57
+guy: 55
+well: 51
+look: 44
+back: 39
+nice: 39
+time: 38
+yes: 36
+alright: 34
+need: 31
+think: 31
+say: 29
+video: 29
+maybe: 29
+ill: 28
+there: 28
+
+CLUSTER 7:
+music: 237
+q: 19
+well: 17
+time: 15
+coming: 15
+july: 15
+today: 13
+night: 13
+th: 13
+morning: 12
+course: 12
+day: 12
+high: 12
+tomorrow: 12
+win: 12
+song: 11
+weekend: 11
+degree: 10
+said: 10
+first: 9
+see: 9
+hot: 9
+eagle: 9
+new: 9
+sunshine: 8
+
+CLUSTER 8:
+one: 4512
+know: 4169
+right: 3434
+guy: 3298
+let: 2867
+good: 2532
+see: 2495
+think: 1841
+well: 1795
+wait: 1789
+run: 1781
+kill: 1740
+need: 1684
+he: 1656
+back: 1620
+god: 1603
+look: 1597
+there: 1530
+take: 1460
+die: 1437
+game: 1411
+time: 1389
+alright: 1363
+ill: 1246
+way: 1220
+
+CLUSTER 9:
+boom: 913
+death: 756
+thunder: 705
+laser: 689
+know: 667
+ow: 664
+man: 592
+one: 498
+bella: 474
+talk: 473
+turtle: 446
+rain: 446
+ding: 441
+america: 434
+right: 369
+joy: 344
+cough: 315
+let: 312
+see: 306
+zone: 304
+wood: 302
+god: 295
+bang: 286
+good: 284
+gregory: 276
+
+NUMBER OF DOCS PER CLUSTER:
+CLUSTER 0: 103
+CLUSTER 1: 353
+CLUSTER 2: 387
+CLUSTER 3: 376
+CLUSTER 4: 753
+CLUSTER 5: 135
+CLUSTER 6: 25
+CLUSTER 7: 34
+CLUSTER 8: 396
+CLUSTER 9: 52
+
+CLUSTER CENTERS:
+CLUSTER 0:
+znDWp-ywhrs
+Fpzcx-7KSZU
+jFkDU-t17Vk
+OfAZz-4TzJ8
+PMezC-28iyI
+
+CLUSTER 1:
+cmgBb-gEnsc
+lIvFc-Nyho8
+VssfX-bjx-U
+gdogT-Ibweo
+DKFnM-_Igi0
+
+CLUSTER 2:
+irlio-92psE
+bHfUd-8MUKM
+ppzTb-x0D3U
+ILjUH-H9HpU
+GNbZu-nop2g
+
+CLUSTER 3:
+KkkxV-ydtW8
+tTpsT-sd98A
+IwenS-LJt5s
+MUnfe-aTbB4
+QfTcQ-VqjDs
+
+CLUSTER 4:
+pBEWl-5jF6w
+jkDSU-VmUAk
+hRJIx-JsYyQ
+IpWnS-hqVYk
+RVXKl-Yqfrc
+
+CLUSTER 5:
+czAbR-Sp1gY
+uvyvv-t9UAs
+jHTcS-W7Xcs
+MQTnK-k395Y
+RmmOE-_pAys
+
+CLUSTER 6:
+SItpE-s7Pu0
+jVNAh-YLqwI
+Nwkcu-9gEh8
+fRQoz-12nJM
+KhJDq-7FOsw
+
+CLUSTER 7:
+AOZIY-AwsjM
+CcTXv-LzP-U
+CoiQI-Z3y5Q
+EaNgV-zwvYc
+MFhKe-uNmBw
+
+CLUSTER 8:
+HuKSF-3Ifuw
+xsWIM-MGKv4
+ukJnL-x98HY
+MrWqv-5ri4U
+hZupj-gXG2c
+
+CLUSTER 9:
+DhmbE-OI1xA
+UOyzO-oH2Kk
+VkxqF-ZbQig
+DVEsB-Unzi8
+iRTdV-evIPs
+

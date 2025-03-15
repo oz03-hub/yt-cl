@@ -1,0 +1,341 @@
+lda, general info
+n_clusters: 30
+n_words: 25
+num_closest_to_center: 5
+random_state: 42
+
+coherence: 0.3753600627090874
+
+CLUSTER CENTERS:
+CLUSTER 0:
+BzlIg-xOMzE
+ApGam-dLiEg
+AXMUA-RQZUE
+DoDfc-kj63Q
+AYeMQ-YWROE
+
+CLUSTER 1:
+TuPyc-Lm_J4
+uziLq-ZFYjY
+VGqXZ-PmqNY
+Jzbaz-y07qU
+qnEtE-Le0I8
+
+CLUSTER 2:
+MaBLG-ooCaA
+fXewz-7UHwM
+CcgiG-7BUg4
+Bzlig-jogig
+JhPhu-rtFw0
+
+CLUSTER 3:
+KzKLh-qfK6o
+CxNiK-7EoI0
+Cgash-6mtqI
+zgwuG-h3Cro
+OrBph-PeXU4
+
+CLUSTER 4:
+rEBFm-hrsMQ
+CSaLc-Xj_6g
+EANTy-qmcdU
+mBQyP-9WrqQ
+FExkC-DzMvI
+
+CLUSTER 5:
+AbWJf-uQ5i4
+srUap-J1J0w
+DuqiJ-fpofY
+Rhnfd-wf-8w
+iFqLg-iBfyE
+
+CLUSTER 6:
+DOicV-fRpds
+bcoJN-nIG98
+XMMFV-I8-4Y
+cotOx-VCcKI
+BULDL-oO5mA
+
+CLUSTER 7:
+rOolM-69wVk
+NDcEg-wKTzw
+jyqor-jWlFs
+xPGxJ-z9z-g
+ZsEEt-yhaas
+
+CLUSTER 8:
+PSLlc-7k05U
+YBDSL-jrmD0
+FSwlx-zTVEk
+cuTME-9WJUM
+RmnIh-u1ff4
+
+CLUSTER 9:
+DOpwy-EeLNk
+DaFrS-T5g7E
+sdrKB-8DcmA
+TepBt-pnh4M
+nENXv-w7Zv4
+
+CLUSTER 10:
+YxQwt-Rzfqw
+BOsUa-R4Bv4
+EEuKb-xFSPs
+zAarA-SJGUk
+dxPvS-IGNV8
+
+CLUSTER 11:
+gcNTT-L6B2o
+EIKIp--YKa8
+pHDnC-XsDfA
+CFELb-CgJj0
+AzmfZ-sXV44
+
+CLUSTER 12:
+kmuRI-_tiO8
+Njcer-TGqNc
+Hdphp-2KC8k
+zRQNI-Og8vE
+pNFpB-NEOGM
+
+CLUSTER 13:
+VYNxr-Rh7Xw
+nLYSd-QWl3c
+Darzj-6nAyo
+UVZMZ-XjmMU
+xFkrY-eIyzc
+
+CLUSTER 14:
+UmfhK-14hDA
+ndZNR-NmF3g
+ppGuZ-DjAAM
+lCNLh-UGO9M
+AjQFQ-5WXLI
+
+CLUSTER 15:
+RRrjF-lMQyI
+nprhD-GBf9s
+HnRUI-pYdUU
+RcQqY-VM7-Y
+lmClQ-l35XU
+
+CLUSTER 16:
+BwHtD-Zkm80
+AONXX-h9SdI
+Bdksw--tExI
+NSXhB-5-yKE
+oLKHf-_pfpg
+
+CLUSTER 17:
+HduLX-wxjzw
+ZasxV-tNSbk
+SMzsm-GUxM4
+oyXTF-rKc7U
+YCYEt-TXLMs
+
+CLUSTER 18:
+MzGdB-oW73A
+YiAjA-vCUgU
+TvtSr-0pej0
+ifUeZ-PM7Xc
+FPufR-rldgI
+
+CLUSTER 19:
+BTXJv-fPm_E
+PDgut-7x3AY
+OGTmY-tjfdU
+BotUD-KJyxA
+DEhkO-bKRh8
+
+CLUSTER 20:
+fRnhG-BzU2M
+xMNoY-Dagzc
+wJkWZ-zuKx8
+yyPoD-bOCYk
+RrrJF-nl1fY
+
+CLUSTER 21:
+nxQJU-Wc53E
+lgjbL-70kJE
+pBwCD-TVbV0
+mtHce-Jcjh8
+qNssM-7jMdE
+
+CLUSTER 22:
+rZtub-AHYqU
+iqPVQ-Fwd_4
+xqgMH-gpkB8
+HaJuU-1s4FM
+qMmsT-t1dnQ
+
+CLUSTER 23:
+mmsin-2bqH0
+EtRQy-o3bGc
+dSjEo-sb2-g
+GQACB-oCx90
+OGJzx-bY8Bo
+
+CLUSTER 24:
+GNwcH-V7v34
+UJoMy-Q46vM
+BNHjk-fip1c
+NWgvy-CZRVc
+FPufR-rldgI
+
+CLUSTER 25:
+GHptk-tZABk
+sxBjJ-ixw6U
+LTsaM-nPIJg
+RauqK-_AStI
+cFvRC-q1a_4
+
+CLUSTER 26:
+DYEnM-2Lo1g
+Ufqpy-rSLvg
+dZTry-ZBtuA
+BbhJP-ODZHc
+TuRhA-QhRco
+
+CLUSTER 27:
+AXkEd-CIG_g
+HUKsF-0jkzg
+tuMxY-KPXbk
+bUEFc-UH938
+MENWj-vrTc0
+
+CLUSTER 28:
+QoUiF-9G2L8
+YqQsC-_lMgM
+GMpUT-NZ5hs
+cdBEC-M4r5c
+tMnkx-iqoqI
+
+CLUSTER 29:
+vZLUI-dQdBE
+opdGb-qpiQI
+EfvMv-9yb30
+EPGRZ-0TZV8
+jtPUo-ivEyU
+
+TOP WORDS PER TOPIC FROM LDA MODEL:
+TOPIC 0:
+(0, '0.013*"time" + 0.012*"one" + 0.011*"joe" + 0.010*"thats" + 0.010*"like" + 0.009*"got" + 0.009*"know" + 0.008*"right" + 0.008*"well" + 0.007*"get" + 0.006*"go" + 0.006*"good" + 0.006*"make" + 0.005*"want" + 0.005*"carolina" + 0.005*"dont" + 0.005*"little" + 0.005*"back" + 0.005*"would" + 0.005*"he" + 0.005*"see" + 0.005*"two" + 0.004*"take" + 0.004*"big" + 0.004*"let"')
+
+TOPIC 1:
+(1, '0.330*"ha" + 0.089*"yes" + 0.032*"hello" + 0.032*"oh" + 0.023*"happy" + 0.022*"gonna" + 0.019*"hi" + 0.018*"guy" + 0.017*"dont" + 0.015*"sorry" + 0.015*"know" + 0.014*"get" + 0.011*"say" + 0.008*"going" + 0.007*"got" + 0.006*"he" + 0.006*"one" + 0.005*"okay" + 0.005*"thank" + 0.005*"sure" + 0.005*"like" + 0.005*"team" + 0.005*"youtube" + 0.004*"called" + 0.004*"yeah"')
+
+TOPIC 2:
+(2, '0.436*"death" + 0.010*"host" + 0.010*"adam" + 0.008*"jew" + 0.008*"man" + 0.007*"begging" + 0.007*"writes" + 0.004*"tired" + 0.004*"sunny" + 0.004*"get" + 0.004*"gonna" + 0.003*"need" + 0.003*"first" + 0.003*"permitted" + 0.002*"sure" + 0.002*"read" + 0.002*"take" + 0.002*"nation" + 0.002*"god" + 0.002*"afraid" + 0.002*"say" + 0.002*"leave" + 0.002*"know" + 0.002*"card" + 0.001*"u"')
+
+TOPIC 3:
+(3, '0.013*"people" + 0.009*"going" + 0.009*"year" + 0.009*"u" + 0.008*"one" + 0.008*"work" + 0.008*"get" + 0.008*"thing" + 0.007*"question" + 0.007*"know" + 0.007*"number" + 0.007*"thank" + 0.006*"also" + 0.006*"would" + 0.005*"think" + 0.005*"service" + 0.005*"well" + 0.005*"time" + 0.005*"see" + 0.005*"good" + 0.004*"need" + 0.004*"job" + 0.004*"business" + 0.004*"thats" + 0.004*"day"')
+
+TOPIC 4:
+(4, '0.153*"pillow" + 0.050*"disgusting" + 0.039*"bird" + 0.012*"article" + 0.009*"interior" + 0.004*"remote" + 0.004*"click" + 0.004*"book" + 0.002*"like" + 0.002*"follow" + 0.002*"going" + 0.002*"android" + 0.002*"got" + 0.002*"one" + 0.002*"thing" + 0.002*"shock" + 0.002*"magnetic" + 0.002*"bed" + 0.001*"go" + 0.001*"ill" + 0.001*"stick" + 0.001*"check" + 0.001*"cup" + 0.001*"cactus" + 0.001*"think"')
+
+TOPIC 5:
+(5, '0.194*"whoa" + 0.038*"belongs" + 0.027*"catching" + 0.026*"curious" + 0.017*"belly" + 0.014*"nightmare" + 0.010*"flashlight" + 0.006*"derivative" + 0.005*"ya" + 0.004*"pissing" + 0.004*"comma" + 0.004*"code" + 0.003*"scary" + 0.003*"love" + 0.003*"threaten" + 0.002*"go" + 0.002*"value" + 0.002*"let" + 0.002*"x" + 0.002*"number" + 0.002*"one" + 0.002*"tail" + 0.001*"robot" + 0.001*"burn" + 0.001*"input"')
+
+TOPIC 6:
+(6, '0.653*"oh" + 0.018*"engine" + 0.016*"yeah" + 0.015*"clip" + 0.013*"video" + 0.007*"bye" + 0.006*"tour" + 0.006*"top" + 0.005*"come" + 0.004*"one" + 0.004*"let" + 0.004*"gonna" + 0.003*"buy" + 0.003*"see" + 0.003*"right" + 0.003*"like" + 0.003*"show" + 0.003*"going" + 0.003*"go" + 0.003*"transmission" + 0.003*"please" + 0.003*"cherry" + 0.003*"love" + 0.002*"thank" + 0.002*"eat"')
+
+TOPIC 7:
+(7, '0.024*"eh" + 0.024*"okay" + 0.020*"like" + 0.015*"dont" + 0.014*"get" + 0.013*"gonna" + 0.012*"got" + 0.010*"go" + 0.010*"one" + 0.009*"see" + 0.009*"thats" + 0.008*"know" + 0.008*"let" + 0.008*"right" + 0.007*"cant" + 0.007*"oh" + 0.007*"game" + 0.007*"put" + 0.007*"ill" + 0.007*"ding" + 0.006*"back" + 0.006*"look" + 0.006*"well" + 0.006*"make" + 0.006*"long"')
+
+TOPIC 8:
+(8, '0.171*"boom" + 0.060*"stop" + 0.025*"wood" + 0.025*"give" + 0.019*"dont" + 0.018*"stock" + 0.018*"zombie" + 0.017*"need" + 0.013*"darth" + 0.013*"see" + 0.012*"reinforcement" + 0.012*"okay" + 0.012*"come" + 0.011*"chill" + 0.009*"guy" + 0.008*"oh" + 0.008*"gonna" + 0.008*"get" + 0.007*"iron" + 0.007*"one" + 0.007*"let" + 0.007*"anvil" + 0.006*"economy" + 0.006*"thats" + 0.006*"got"')
+
+TOPIC 9:
+(9, '0.041*"radio" + 0.028*"mr" + 0.024*"tire" + 0.018*"control" + 0.018*"brake" + 0.018*"curtain" + 0.016*"ex" + 0.014*"attorney" + 0.014*"disc" + 0.011*"claiming" + 0.010*"satellite" + 0.009*"scam" + 0.009*"traction" + 0.009*"claim" + 0.008*"pressure" + 0.008*"stereo" + 0.007*"stability" + 0.007*"faking" + 0.006*"safe" + 0.006*"sight" + 0.004*"airbags" + 0.003*"airbag" + 0.003*"passenger" + 0.003*"included" + 0.003*"window"')
+
+TOPIC 10:
+(10, '0.025*"got" + 0.014*"run" + 0.012*"candy" + 0.012*"eh" + 0.011*"see" + 0.011*"beer" + 0.010*"thats" + 0.010*"one" + 0.009*"good" + 0.009*"right" + 0.009*"little" + 0.009*"look" + 0.009*"well" + 0.007*"get" + 0.007*"blade" + 0.007*"like" + 0.007*"back" + 0.007*"gregory" + 0.006*"oh" + 0.006*"put" + 0.005*"there" + 0.005*"need" + 0.005*"yeah" + 0.005*"thing" + 0.005*"heal"')
+
+TOPIC 11:
+(11, '0.036*"click" + 0.035*"table" + 0.029*"bear" + 0.022*"teddy" + 0.019*"name" + 0.018*"duke" + 0.015*"hospital" + 0.013*"query" + 0.013*"b" + 0.013*"harry" + 0.012*"justin" + 0.011*"user" + 0.011*"march" + 0.011*"one" + 0.010*"professor" + 0.010*"element" + 0.010*"dot" + 0.009*"okay" + 0.009*"suppose" + 0.009*"mr" + 0.009*"classified" + 0.008*"see" + 0.008*"resistance" + 0.008*"dr" + 0.007*"produce"')
+
+TOPIC 12:
+(12, '0.025*"good" + 0.025*"play" + 0.023*"going" + 0.022*"he" + 0.021*"back" + 0.015*"one" + 0.015*"team" + 0.014*"first" + 0.014*"throw" + 0.014*"get" + 0.014*"go" + 0.012*"right" + 0.012*"ball" + 0.012*"two" + 0.011*"second" + 0.011*"game" + 0.011*"point" + 0.010*"got" + 0.010*"three" + 0.009*"kick" + 0.009*"zone" + 0.008*"see" + 0.008*"look" + 0.008*"line" + 0.007*"yard"')
+
+TOPIC 13:
+(13, '0.164*"master" + 0.036*"interview" + 0.027*"project" + 0.020*"knowledge" + 0.017*"mobile" + 0.015*"outcome" + 0.008*"willingly" + 0.007*"community" + 0.005*"industrial" + 0.005*"reflection" + 0.004*"study" + 0.004*"suffering" + 0.003*"credit" + 0.003*"year" + 0.003*"memory" + 0.003*"people" + 0.003*"deliver" + 0.003*"one" + 0.003*"life" + 0.003*"egypt" + 0.002*"thing" + 0.002*"heart" + 0.002*"repeating" + 0.002*"joel" + 0.002*"u"')
+
+TOPIC 14:
+(14, '0.041*"hey" + 0.022*"man" + 0.021*"know" + 0.018*"said" + 0.016*"love" + 0.015*"never" + 0.013*"dont" + 0.012*"go" + 0.010*"aint" + 0.010*"day" + 0.010*"girl" + 0.009*"got" + 0.009*"rain" + 0.008*"home" + 0.008*"house" + 0.007*"like" + 0.007*"boy" + 0.007*"night" + 0.007*"say" + 0.007*"real" + 0.007*"tell" + 0.007*"get" + 0.007*"come" + 0.006*"shes" + 0.006*"want"')
+
+TOPIC 15:
+(15, '0.080*"wanna" + 0.071*"daddy" + 0.044*"ray" + 0.039*"ride" + 0.031*"aint" + 0.029*"as" + 0.027*"bitch" + 0.026*"ken" + 0.022*"baby" + 0.021*"hit" + 0.019*"like" + 0.015*"pop" + 0.013*"real" + 0.012*"gon" + 0.011*"one" + 0.010*"go" + 0.010*"cause" + 0.009*"yo" + 0.009*"got" + 0.009*"kitty" + 0.008*"fuck" + 0.007*"hair" + 0.007*"brush" + 0.007*"love" + 0.006*"dont"')
+
+TOPIC 16:
+(16, '0.162*"equal" + 0.080*"love" + 0.071*"minus" + 0.064*"ya" + 0.044*"plus" + 0.032*"x" + 0.020*"pig" + 0.020*"fool" + 0.018*"bone" + 0.016*"square" + 0.014*"degree" + 0.013*"zero" + 0.011*"pi" + 0.010*"ooh" + 0.008*"army" + 0.008*"find" + 0.007*"power" + 0.006*"squared" + 0.006*"wooden" + 0.005*"fate" + 0.005*"disappeared" + 0.005*"value" + 0.004*"calculate" + 0.004*"see" + 0.004*"take"')
+
+TOPIC 17:
+(17, '0.404*"la" + 0.035*"sure" + 0.027*"slap" + 0.017*"dont" + 0.013*"afraid" + 0.009*"arcade" + 0.009*"get" + 0.008*"glow" + 0.007*"say" + 0.006*"know" + 0.006*"going" + 0.004*"like" + 0.004*"man" + 0.003*"game" + 0.003*"dale" + 0.003*"flame" + 0.003*"god" + 0.003*"go" + 0.003*"back" + 0.002*"hate" + 0.002*"gonna" + 0.002*"need" + 0.002*"love" + 0.002*"fate" + 0.002*"passport"')
+
+TOPIC 18:
+(18, '0.038*"angel" + 0.025*"cloud" + 0.011*"contradiction" + 0.002*"earth" + 0.001*"god" + 0.001*"lord" + 0.001*"heaven" + 0.001*"wonderful" + 0.001*"u" + 0.001*"say" + 0.001*"kingdom" + 0.001*"spirit" + 0.001*"rejected" + 0.001*"verse" + 0.000*"scripture" + 0.000*"mean" + 0.000*"kim" + 0.000*"come" + 0.000*"right" + 0.000*"word" + 0.000*"judgment" + 0.000*"bless" + 0.000*"let" + 0.000*"amen" + 0.000*"day"')
+
+TOPIC 19:
+(19, '0.059*"tom" + 0.022*"decrease" + 0.020*"torch" + 0.011*"pinky" + 0.002*"go" + 0.001*"gravity" + 0.001*"redstone" + 0.001*"right" + 0.001*"get" + 0.001*"going" + 0.001*"come" + 0.001*"know" + 0.001*"dont" + 0.001*"like" + 0.001*"mob" + 0.000*"one" + 0.000*"stop" + 0.000*"want" + 0.000*"take" + 0.000*"say" + 0.000*"back" + 0.000*"let" + 0.000*"mining" + 0.000*"tuna" + 0.000*"left"')
+
+TOPIC 20:
+(20, '0.061*"yeah" + 0.042*"like" + 0.022*"know" + 0.021*"eh" + 0.019*"thats" + 0.018*"dont" + 0.016*"one" + 0.015*"got" + 0.015*"good" + 0.013*"get" + 0.012*"right" + 0.011*"go" + 0.011*"think" + 0.011*"oh" + 0.010*"he" + 0.009*"well" + 0.009*"gonna" + 0.009*"see" + 0.008*"there" + 0.008*"let" + 0.008*"actually" + 0.007*"okay" + 0.007*"guy" + 0.007*"really" + 0.006*"want"')
+
+TOPIC 21:
+(21, '0.093*"oh" + 0.029*"right" + 0.026*"dont" + 0.026*"gonna" + 0.025*"shit" + 0.023*"fucking" + 0.019*"god" + 0.016*"like" + 0.016*"got" + 0.015*"fuck" + 0.015*"get" + 0.015*"know" + 0.014*"yeah" + 0.014*"okay" + 0.013*"go" + 0.012*"ah" + 0.011*"dude" + 0.011*"die" + 0.010*"he" + 0.009*"boy" + 0.009*"guy" + 0.009*"thats" + 0.008*"one" + 0.008*"come" + 0.008*"man"')
+
+TOPIC 22:
+(22, '0.043*"god" + 0.039*"lord" + 0.032*"jesus" + 0.031*"u" + 0.021*"come" + 0.019*"hallelujah" + 0.014*"joy" + 0.013*"say" + 0.013*"church" + 0.011*"life" + 0.011*"word" + 0.010*"let" + 0.009*"said" + 0.009*"one" + 0.009*"christ" + 0.009*"mary" + 0.008*"spirit" + 0.008*"day" + 0.007*"father" + 0.007*"thank" + 0.007*"thing" + 0.007*"people" + 0.007*"heart" + 0.007*"place" + 0.006*"name"')
+
+TOPIC 23:
+(23, '0.062*"rust" + 0.029*"turtle" + 0.010*"butter" + 0.007*"curtis" + 0.007*"meow" + 0.006*"dun" + 0.006*"mile" + 0.005*"let" + 0.005*"ouch" + 0.004*"cat" + 0.002*"america" + 0.002*"thats" + 0.002*"men" + 0.001*"clap" + 0.001*"one" + 0.001*"god" + 0.001*"oh" + 0.001*"go" + 0.001*"okay" + 0.001*"time" + 0.001*"get" + 0.001*"like" + 0.001*"really" + 0.001*"well" + 0.001*"dont"')
+
+TOPIC 24:
+(24, '0.004*"shelter" + 0.003*"ford" + 0.001*"vehicle" + 0.001*"mile" + 0.001*"agency" + 0.001*"website" + 0.001*"please" + 0.001*"visit" + 0.001*"available" + 0.001*"rape" + 0.000*"like" + 0.000*"know" + 0.000*"service" + 0.000*"community" + 0.000*"signal" + 0.000*"one" + 0.000*"alright" + 0.000*"year" + 0.000*"emergency" + 0.000*"program" + 0.000*"think" + 0.000*"yeah" + 0.000*"time" + 0.000*"oh" + 0.000*"people"')
+
+TOPIC 25:
+(25, '0.080*"video" + 0.024*"little" + 0.023*"channel" + 0.021*"guy" + 0.018*"n" + 0.017*"hope" + 0.017*"subscribe" + 0.014*"next" + 0.013*"add" + 0.013*"review" + 0.013*"bit" + 0.013*"one" + 0.012*"duct" + 0.012*"see" + 0.012*"make" + 0.012*"slime" + 0.011*"please" + 0.011*"gonna" + 0.011*"like" + 0.011*"let" + 0.011*"shining" + 0.010*"going" + 0.010*"star" + 0.010*"tape" + 0.008*"bye"')
+
+TOPIC 26:
+(26, '0.029*"opponent" + 0.026*"petal" + 0.023*"bunny" + 0.019*"double" + 0.017*"pattern" + 0.015*"bishop" + 0.005*"crochet" + 0.002*"go" + 0.001*"make" + 0.001*"yarn" + 0.001*"loop" + 0.001*"like" + 0.001*"knot" + 0.001*"one" + 0.001*"going" + 0.001*"know" + 0.000*"thing" + 0.000*"want" + 0.000*"time" + 0.000*"vulnerable" + 0.000*"dont" + 0.000*"right" + 0.000*"first" + 0.000*"single" + 0.000*"think"')
+
+TOPIC 27:
+(27, '0.020*"also" + 0.012*"process" + 0.011*"question" + 0.010*"increase" + 0.010*"form" + 0.009*"health" + 0.009*"state" + 0.009*"disease" + 0.009*"patient" + 0.008*"function" + 0.008*"positive" + 0.008*"use" + 0.008*"important" + 0.007*"one" + 0.007*"study" + 0.007*"change" + 0.007*"must" + 0.007*"therefore" + 0.007*"level" + 0.006*"energy" + 0.006*"increasing" + 0.006*"used" + 0.006*"system" + 0.006*"time" + 0.006*"data"')
+
+TOPIC 28:
+(28, '0.042*"like" + 0.025*"know" + 0.018*"going" + 0.015*"really" + 0.014*"thats" + 0.014*"thing" + 0.012*"think" + 0.011*"see" + 0.010*"want" + 0.010*"people" + 0.009*"kind" + 0.009*"little" + 0.009*"say" + 0.009*"love" + 0.008*"go" + 0.008*"feel" + 0.008*"one" + 0.008*"right" + 0.008*"dont" + 0.008*"talk" + 0.007*"theyre" + 0.007*"something" + 0.007*"lot" + 0.007*"would" + 0.007*"make"')
+
+TOPIC 29:
+(29, '0.218*"go" + 0.156*"going" + 0.058*"come" + 0.035*"gonna" + 0.035*"drop" + 0.032*"get" + 0.030*"kill" + 0.027*"take" + 0.020*"hello" + 0.019*"one" + 0.018*"check" + 0.015*"okay" + 0.012*"guy" + 0.012*"left" + 0.011*"die" + 0.010*"sure" + 0.009*"use" + 0.009*"side" + 0.008*"let" + 0.008*"team" + 0.007*"scared" + 0.007*"got" + 0.006*"dont" + 0.006*"doodle" + 0.005*"play"')
+
+NUMBER OF DOCS PER CLUSTER:
+CLUSTER 0: 295
+CLUSTER 1: 23
+CLUSTER 2: 2
+CLUSTER 3: 237
+CLUSTER 4: 0
+CLUSTER 5: 1
+CLUSTER 6: 18
+CLUSTER 7: 272
+CLUSTER 8: 25
+CLUSTER 9: 3
+CLUSTER 10: 169
+CLUSTER 11: 14
+CLUSTER 12: 123
+CLUSTER 13: 3
+CLUSTER 14: 255
+CLUSTER 15: 30
+CLUSTER 16: 9
+CLUSTER 17: 1
+CLUSTER 18: 0
+CLUSTER 19: 0
+CLUSTER 20: 289
+CLUSTER 21: 190
+CLUSTER 22: 107
+CLUSTER 23: 3
+CLUSTER 24: 1
+CLUSTER 25: 75
+CLUSTER 26: 3
+CLUSTER 27: 42
+CLUSTER 28: 382
+CLUSTER 29: 42

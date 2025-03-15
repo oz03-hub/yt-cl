@@ -1,0 +1,264 @@
+w2v tfidf, general info
+n_clusters: 18
+n_words to save: 25
+num_closest_to_center: 5
+random_state: 42
+
+inertia: 6.0744875491222565
+n_iter: 28
+silhouette_score: 0.4522157111484974
+davies_bouldin_score: 0.8867131742115667
+
+TOP WORDS PER CLUSTER:
+CLUSTER 0:
+know: 15692
+one: 12735
+right: 9878
+see: 7612
+let: 7083
+think: 7059
+well: 6562
+youre: 6477
+time: 6339
+good: 6265
+guy: 6096
+thing: 6059
+say: 5736
+god: 5700
+back: 5151
+people: 5033
+need: 4799
+he: 4685
+look: 4567
+make: 4552
+way: 4494
+u: 4402
+there: 4257
+take: 4229
+would: 4149
+
+CLUSTER 1:
+look: 2
+beautiful: 1
+good: 1
+one: 1
+al: 1
+bell: 1
+as: 1
+time: 1
+bco: 1
+angry: 1
+hate: 1
+refrigerator: 1
+first: 1
+blood: 1
+
+CLUSTER 2:
+number: 1
+10: 1
+
+CLUSTER 3:
+know: 32
+one: 28
+look: 28
+let: 27
+back: 25
+love: 24
+today: 22
+right: 21
+take: 20
+see: 18
+youre: 18
+guy: 17
+need: 15
+god: 14
+time: 14
+there: 14
+call: 14
+u: 13
+good: 13
+hey: 13
+day: 12
+baby: 12
+ready: 12
+video: 11
+think: 11
+
+CLUSTER 4:
+ah: 1
+hobo: 1
+
+CLUSTER 5:
+alright: 1
+
+CLUSTER 6:
+built: 3
+taking: 2
+bad: 2
+bling: 2
+name: 2
+john: 2
+cena: 2
+warning: 1
+critical: 1
+damage: 1
+advise: 1
+cover: 1
+roger: 1
+mission: 1
+accomplished: 1
+bored: 1
+birthday: 1
+30: 1
+spare: 1
+welcome: 1
+star: 1
+city: 1
+look: 1
+chicken: 1
+hell: 1
+
+CLUSTER 7:
+one: 217
+know: 209
+see: 159
+time: 145
+back: 135
+good: 135
+right: 126
+youre: 126
+let: 120
+say: 107
+make: 105
+guy: 104
+look: 99
+think: 97
+today: 97
+need: 92
+love: 92
+hey: 91
+little: 88
+take: 85
+ill: 82
+u: 82
+day: 80
+way: 79
+cant: 78
+
+CLUSTER 8:
+yes: 1
+abby: 1
+
+CLUSTER 9:
+10: 3
+lully: 1
+frog: 1
+lake: 1
+guess: 1
+monster: 1
+second: 1
+let: 1
+see: 1
+
+CLUSTER 10:
+alula: 11
+see: 7
+love: 7
+please: 6
+know: 5
+right: 5
+annabelle: 5
+man: 4
+alright: 4
+available: 4
+visit: 4
+website: 4
+guy: 4
+say: 4
+cant: 4
+let: 4
+good: 4
+albert: 4
+bad: 3
+ford: 3
+mile: 3
+back: 3
+one: 3
+tell: 3
+belt: 3
+
+CLUSTER 11:
+challenge: 1
+accepted: 1
+
+CLUSTER 12:
+australia: 1
+
+CLUSTER 13:
+welcome: 1
+spanosmotorscom: 1
+2007: 1
+bmw: 1
+335i: 1
+castellanos: 1
+
+CLUSTER 14:
+bam: 1
+
+CLUSTER 15:
+always: 2
+little: 1
+bit: 1
+power: 1
+car: 1
+guy: 1
+look: 1
+made: 1
+animation: 1
+everybodys: 1
+asking: 1
+u: 1
+fun: 1
+song: 1
+70: 1
+80: 1
+weekend: 1
+99: 1
+fox: 1
+20: 1
+year: 1
+old: 1
+soon: 1
+30: 1
+bros: 1
+
+CLUSTER 16:
+castaway: 1
+
+CLUSTER 17:
+13: 2
+61: 2
+active: 1
+13victor: 1
+outta: 1
+
+NUMBER OF DOCS PER CLUSTER:
+CLUSTER 0: 1554
+CLUSTER 1: 6
+CLUSTER 2: 1
+CLUSTER 3: 254
+CLUSTER 4: 1
+CLUSTER 5: 1
+CLUSTER 6: 30
+CLUSTER 7: 683
+CLUSTER 8: 1
+CLUSTER 9: 2
+CLUSTER 10: 80
+CLUSTER 11: 1
+CLUSTER 12: 1
+CLUSTER 13: 2
+CLUSTER 14: 1
+CLUSTER 15: 10
+CLUSTER 16: 1
+CLUSTER 17: 1
+
