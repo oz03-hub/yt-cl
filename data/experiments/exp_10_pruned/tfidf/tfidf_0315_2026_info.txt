@@ -1,0 +1,365 @@
+tfidf, general info
+n_clusters: 10
+n_words: 25
+num_closest_to_center: 5
+random_state: 42
+
+inertia: 1369.6845795806817
+n_iter: 21
+silhouette_score: -0.0009748645332563418
+davies_bouldin_score: 8.867180931408237
+
+TOP WORDS PER CLUSTER:
+CLUSTER 0:
+seat: 40
+vehicle: 36
+control: 35
+wheel: 28
+feature: 27
+rear: 27
+back: 25
+right: 23
+system: 23
+automatic: 22
+mile: 22
+today: 21
+side: 19
+one: 19
+front: 19
+power: 19
+driver: 18
+drive: 18
+transmission: 17
+engine: 17
+mirror: 17
+passenger: 16
+u: 15
+steering: 15
+look: 14
+
+CLUSTER 1:
+one: 533
+know: 350
+time: 343
+see: 326
+let: 324
+right: 291
+back: 283
+well: 249
+good: 245
+take: 244
+say: 243
+huh: 241
+u: 233
+make: 231
+look: 231
+place: 229
+love: 217
+way: 206
+need: 206
+think: 205
+little: 181
+day: 176
+long: 172
+two: 167
+life: 163
+
+CLUSTER 2:
+water: 100
+make: 57
+well: 49
+little: 44
+see: 42
+video: 39
+take: 37
+one: 36
+bit: 36
+right: 35
+time: 35
+add: 32
+let: 30
+food: 30
+know: 27
+end: 26
+put: 25
+also: 25
+love: 24
+mix: 24
+lot: 23
+heater: 22
+slime: 22
+guy: 21
+good: 21
+
+CLUSTER 3:
+video: 183
+guy: 84
+one: 64
+channel: 50
+make: 47
+subscribe: 45
+know: 43
+see: 39
+right: 37
+youtube: 36
+ill: 35
+friend: 32
+comment: 30
+time: 29
+probably: 29
+put: 28
+say: 28
+let: 26
+um: 26
+bye: 25
+well: 24
+thing: 24
+thank: 23
+please: 22
+next: 22
+
+CLUSTER 4:
+fuck: 71
+aint: 37
+bitch: 34
+know: 28
+cant: 24
+shit: 23
+back: 19
+as: 18
+wanna: 16
+never: 16
+money: 16
+still: 15
+one: 14
+let: 14
+keep: 14
+dick: 14
+gone: 14
+love: 13
+say: 12
+big: 12
+take: 12
+day: 12
+outta: 12
+everyone: 12
+anyone: 12
+
+CLUSTER 5:
+know: 1780
+one: 1343
+right: 1026
+thing: 969
+see: 920
+think: 904
+well: 786
+time: 747
+little: 704
+good: 677
+guy: 648
+people: 620
+look: 601
+would: 588
+back: 574
+say: 570
+let: 561
+lot: 527
+there: 517
+make: 516
+need: 471
+way: 465
+mean: 460
+first: 447
+two: 440
+
+CLUSTER 6:
+know: 352
+wanna: 250
+shit: 219
+fucking: 218
+let: 202
+back: 167
+see: 160
+right: 157
+aint: 156
+never: 150
+man: 148
+fuck: 147
+ill: 139
+time: 133
+bitch: 133
+one: 131
+cant: 123
+look: 117
+say: 116
+make: 110
+hey: 105
+take: 105
+keep: 98
+think: 97
+need: 93
+
+CLUSTER 7:
+music: 230
+year: 121
+school: 92
+one: 87
+also: 83
+service: 81
+time: 80
+student: 78
+day: 73
+well: 69
+would: 62
+high: 61
+see: 61
+people: 60
+program: 56
+first: 56
+today: 54
+right: 53
+th: 52
+work: 50
+new: 50
+make: 50
+know: 49
+great: 49
+u: 48
+
+CLUSTER 8:
+one: 248
+also: 191
+people: 187
+would: 165
+time: 156
+make: 153
+need: 143
+see: 142
+let: 129
+new: 124
+u: 123
+well: 122
+think: 122
+know: 117
+business: 106
+use: 103
+many: 99
+year: 98
+right: 97
+thing: 97
+way: 96
+work: 91
+first: 90
+good: 88
+number: 88
+
+CLUSTER 9:
+know: 809
+one: 695
+right: 618
+see: 539
+guy: 531
+let: 520
+well: 395
+good: 390
+god: 375
+think: 347
+back: 342
+look: 336
+there: 308
+cant: 293
+time: 274
+alright: 270
+wait: 268
+ill: 263
+way: 258
+game: 257
+he: 255
+need: 248
+thing: 244
+make: 231
+little: 223
+
+NUMBER OF DOCS PER CLUSTER:
+CLUSTER 0: 26
+CLUSTER 1: 507
+CLUSTER 2: 44
+CLUSTER 3: 40
+CLUSTER 4: 16
+CLUSTER 5: 309
+CLUSTER 6: 135
+CLUSTER 7: 66
+CLUSTER 8: 165
+CLUSTER 9: 171
+
+CLUSTER CENTERS:
+CLUSTER 0:
+eiKiP-UI5Yk
+dUFHY-Xrodw
+cdBEC-eVy3E
+ampQM-RUAKc
+wedFi-iFSeY
+
+CLUSTER 1:
+RdoOr-5qQjw
+CffTd-kB9Xo
+nvZXK-ICKO8
+LAYrF-dHG6M
+nfVvY-_O1EE
+
+CLUSTER 2:
+DcLuX-8Q1mg
+OrGaY-8xToE
+AAHiZ-c88ec
+avjTG-M25os
+QzEuD-Fv-Lg
+
+CLUSTER 3:
+jHKZd-ejerQ
+YVkhs-2GRFE
+PMezC-28iyI
+LljnH-_JEGs
+GcRvb-NK_QQ
+
+CLUSTER 4:
+vYnXR-_3NhA
+zMmpH-iaQeI
+SgyXy-pGZ80
+OEGeB-Bmer8
+cAvSI-aOe_M
+
+CLUSTER 5:
+GNbZu-nop2g
+AmDou-_Ijmo
+ILjUH-H9HpU
+thqVi-ojJFE
+fxkDx-Xm2qQ
+
+CLUSTER 6:
+BQfJS-R8yIo
+ZLzOG-tNg7Y
+HaoWv-S6faI
+OAKDL-NRXLg
+DVzZX-dXs74
+
+CLUSTER 7:
+YJWth-pImdI
+pGZss-R7DEU
+YSLpr-9ejgQ
+FjWzF-gPFEw
+goqvY-QwCwo
+
+CLUSTER 8:
+XyZIh-KB5y8
+ItcJk-XxMb4
+tNbDc-9mzcA
+ZFERE-NrFdY
+pulyl-kR_tk
+
+CLUSTER 9:
+Lbnan-tGxzc
+CIbco-09YyA
+JLNtO-GyPRI
+SRJHr-phMJ4
+MhUIi-zbEzM
+
