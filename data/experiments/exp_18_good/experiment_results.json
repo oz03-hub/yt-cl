@@ -1,0 +1,63 @@
+[
+  {
+    "method": "tfidf",
+    "config": {
+      "n_clusters": 18,
+      "n_words": 25,
+      "num_closest_to_center": 5,
+      "random_state": 42
+    },
+    "metrics": {
+      "inertia": 1321.46301387305,
+      "n_iter": 28,
+      "silhouette_score": -0.004813126811607267,
+      "davies_bouldin_score": 7.262683783159401
+    },
+    "runtime": 3.588263988494873
+  },
+  {
+    "method": "embedding",
+    "config": {
+      "n_clusters": 18,
+      "n_words": 25,
+      "num_closest_to_center": 5,
+      "random_state": 42
+    },
+    "metrics": {
+      "inertia": 934.0747680664062,
+      "n_iter": 17,
+      "silhouette_score": 0.013852312229573727,
+      "davies_bouldin_score": 4.123868492809323
+    },
+    "runtime": 70.41928815841675
+  },
+  {
+    "method": "lda",
+    "config": {
+      "n_clusters": 18,
+      "n_words": 25,
+      "num_closest_to_center": 5,
+      "random_state": 42
+    },
+    "metrics": {
+      "coherence": 0.3872154005018221
+    },
+    "runtime": 87.70569181442261
+  },
+  {
+    "method": "w2v_tfidf",
+    "config": {
+      "n_clusters": 18,
+      "n_words": 25,
+      "num_closest_to_center": 5,
+      "random_state": 42
+    },
+    "metrics": {
+      "inertia": 8317.303244730989,
+      "n_iter": 30,
+      "silhouette_score": 0.06371310950958287,
+      "davies_bouldin_score": 2.0937684656380435
+    },
+    "runtime": 31.549824714660645
+  }
+]

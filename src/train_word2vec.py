@@ -8,7 +8,7 @@ nltk.download("punkt")
 nltk.download("punkt_tab")
 
 # Load the text file
-df = pd.read_csv("data/normalized.csv", header=0)
+df = pd.read_csv("data/normalized_pruned.csv", header=0)
 
 def preprocess_text(text):
     tokens = word_tokenize(text)

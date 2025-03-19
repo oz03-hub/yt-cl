@@ -36,15 +36,14 @@ def preprocess_transcriptions(df: pd.DataFrame):
     
     return normalized_text
 
-df = pd.read_csv('data/transcripts_new.csv', header=0)
+df = pd.read_csv('data/merged_categorized.csv', header=0)
 normalized_text = preprocess_transcriptions(df)
 
 print(len(df))
 print(len(normalized_text))
 
-normalized_df = pd.DataFrame({"video_id": df["video_id"], "transcript": normalized_text})
-
-normalized_df.dropna(inplace=True)
+normalized_df = df.copy()
+normalized_df["transcript"] = normalized_text
 
 # remove rows with empty transcript
 normalized_df = normalized_df[normalized_df["transcript"].str.len() > 0]
@@ -55,4 +54,4 @@ normalized_df["doc_length"] = normalized_df["transcript"].apply(lambda x: len(x.
 # add lexical diversity
 normalized_df["lexical_diversity"] = normalized_df["transcript"].apply(lambda x: len(set(x.split())) / len(x.split()))
 
-normalized_df.to_csv("normalized.csv")
+normalized_df.to_csv("normalized_merged.csv")
