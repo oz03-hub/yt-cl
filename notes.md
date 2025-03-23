@@ -72,3 +72,7 @@
 
 - check again youtube music database and drop
 - try word2vec first experiment, if performance does not increase look into videos with useful english, filter by number of words maybe
+
+- used openai llms to categorize transcripts into good/bad
+- used signal processing to categorize into speech/other
+- using voice activity detection
