@@ -120,7 +120,7 @@ def main(
     n_words: int = 25,
     num_closest_to_center: int = 5,
     random_state: Optional[int] = 42,
-    runs: int = 10,
+    runs: int = 5,
     parallel: bool = True,
     n_jobs: int = -1,
     figsize: tuple = (12, 10),

@@ -1,0 +1,39 @@
+VI Experiment Summary
+====================
+
+Methods: tfidf, embedding, lda, w2v_tfidf, random
+Number of clusters: 30
+Number of runs: 5
+Random state base: 42
+
+Mean VI Scores:
+tfidf vs tfidf: -0.0000 ± 0.0000
+tfidf vs embedding: 4.4638 ± 0.1102
+tfidf vs lda: 3.8822 ± 0.1213
+tfidf vs w2v_tfidf: 4.0196 ± 0.1292
+tfidf vs random: 5.7000 ± 0.0762
+
+embedding vs tfidf: 4.4638 ± 0.1102
+embedding vs embedding: 0.0000 ± 0.0000
+embedding vs lda: 4.1385 ± 0.0808
+embedding vs w2v_tfidf: 4.5974 ± 0.0293
+embedding vs random: 6.0390 ± 0.0246
+
+lda vs tfidf: 3.8822 ± 0.1213
+lda vs embedding: 4.1385 ± 0.0808
+lda vs lda: -0.0000 ± 0.0000
+lda vs w2v_tfidf: 3.9021 ± 0.0773
+lda vs random: 5.1591 ± 0.0905
+
+w2v_tfidf vs tfidf: 4.0196 ± 0.1292
+w2v_tfidf vs embedding: 4.5974 ± 0.0293
+w2v_tfidf vs lda: 3.9021 ± 0.0773
+w2v_tfidf vs w2v_tfidf: 0.0000 ± 0.0000
+w2v_tfidf vs random: 5.9059 ± 0.0230
+
+random vs tfidf: 5.7000 ± 0.0762
+random vs embedding: 6.0390 ± 0.0246
+random vs lda: 5.1591 ± 0.0905
+random vs w2v_tfidf: 5.9059 ± 0.0230
+random vs random: -0.0000 ± 0.0000
+
