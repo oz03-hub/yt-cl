@@ -39,17 +39,13 @@ class BaseClusterer(ABC):
 
     def run(self, df: pd.DataFrame) -> pd.DataFrame:
         """Run the full clustering pipeline"""
-        # Preprocess data
         self.X = self.preprocess(df)
         
-        # Fit model
         self.fit(self.X)
         
-        # Add cluster labels to dataframe
         df_result = df.copy()
         df_result["cluster"] = self.labels_
         
-        # Calculate metrics
         self.calculate_metrics()
         
         return df_result

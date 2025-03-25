@@ -5,6 +5,7 @@ from nltk.stem import WordNetLemmatizer
 import pandas as pd
 from tqdm import tqdm
 from spellchecker import SpellChecker
+import tyro
 
 nltk.download('stopwords')
 nltk.download('wordnet')
@@ -36,22 +37,22 @@ def preprocess_transcriptions(df: pd.DataFrame):
     
     return normalized_text
 
-df = pd.read_csv('data/merged_categorized.csv', header=0)
-normalized_text = preprocess_transcriptions(df)
+def main(input_file: str = "data/merged_categorized.csv", output_file: str = "normalized_merged.csv"):
+    df = pd.read_csv(input_file, header=0)
+    normalized_text = preprocess_transcriptions(df)
 
-print(len(df))
-print(len(normalized_text))
+    normalized_df = df.copy()
+    normalized_df["transcript"] = normalized_text
 
-normalized_df = df.copy()
-normalized_df["transcript"] = normalized_text
+    # remove rows with empty transcript
+    normalized_df = normalized_df[normalized_df["transcript"].str.len() > 0]
 
-# remove rows with empty transcript
-normalized_df = normalized_df[normalized_df["transcript"].str.len() > 0]
-print(len(normalized_df))
+    # add document length
+    normalized_df["doc_length"] = normalized_df["transcript"].apply(lambda x: len(x.split()))
+    # add lexical diversity
+    normalized_df["lexical_diversity"] = normalized_df["transcript"].apply(lambda x: len(set(x.split())) / len(x.split()))
 
-# add document length
-normalized_df["doc_length"] = normalized_df["transcript"].apply(lambda x: len(x.split()))
-# add lexical diversity
-normalized_df["lexical_diversity"] = normalized_df["transcript"].apply(lambda x: len(set(x.split())) / len(x.split()))
+    normalized_df.to_csv(output_file, index=False)
 
-normalized_df.to_csv("normalized_merged.csv")
+if __name__ == "__main__":
+    tyro.cli(main)

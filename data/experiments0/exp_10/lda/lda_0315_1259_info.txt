@@ -1,0 +1,121 @@
+lda, general info
+n_clusters: 10
+n_words: 25
+num_closest_to_center: 5
+random_state: 42
+
+coherence: 0.3980992514670688
+
+CLUSTER CENTERS:
+CLUSTER 0:
+HduLX-wxjzw
+YxQwt-Rzfqw
+TuPyc-Lm_J4
+Jzbaz-y07qU
+PMSOC-9Oajc
+
+CLUSTER 1:
+DuqJc-nROU4
+ppGuZ-DjAAM
+gcNTT-L6B2o
+hNbdD-S9N3M
+qnEtE-Le0I8
+
+CLUSTER 2:
+kTkhL-d0_Ck
+rZtub-AHYqU
+McovP-mP2Tg
+ilTzh-sgEeE
+iqPVQ-Fwd_4
+
+CLUSTER 3:
+CxNiK-7EoI0
+QoUiF-9G2L8
+rnZUi-gLzb0
+ccNFL-AEt1k
+TKUmo-tH4pw
+
+CLUSTER 4:
+vZLUI-dQdBE
+EfvMv-9yb30
+RRrjF-lMQyI
+ydDaX-v-QIo
+jtPUo-ivEyU
+
+CLUSTER 5:
+opdGb-qpiQI
+nprhD-GBf9s
+FnwwW-d3g6A
+oXJUx-uiJyo
+dgmch-fwzLM
+
+CLUSTER 6:
+PVJOw-gcWXs
+XMMFV-I8-4Y
+bcoJN-nIG98
+aLxkM-SOiUU
+DOicV-fRpds
+
+CLUSTER 7:
+pzLeK-Mqug0
+AjQFQ-5WXLI
+lCNLh-UGO9M
+rOolM-69wVk
+thihR-pMUR0
+
+CLUSTER 8:
+PSLlc-7k05U
+YBDSL-jrmD0
+cuTME-9WJUM
+dxPvS-IGNV8
+MlLdI-1hY30
+
+CLUSTER 9:
+GNwcH-V7v34
+DaFrS-T5g7E
+eiKiP-UI5Yk
+SPiiA-UyRYg
+cdBEC-eVy3E
+
+TOP WORDS PER TOPIC FROM LDA MODEL:
+TOPIC 0:
+(0, '0.040*"ha" + 0.027*"like" + 0.015*"know" + 0.013*"thats" + 0.012*"got" + 0.012*"one" + 0.011*"good" + 0.009*"right" + 0.009*"yeah" + 0.008*"go" + 0.008*"dont" + 0.008*"little" + 0.008*"well" + 0.007*"get" + 0.007*"eh" + 0.007*"see" + 0.007*"really" + 0.007*"going" + 0.007*"he" + 0.006*"back" + 0.006*"time" + 0.006*"think" + 0.006*"look" + 0.006*"want" + 0.006*"love"')
+
+TOPIC 1:
+(1, '0.021*"man" + 0.015*"dont" + 0.015*"sorry" + 0.015*"heal" + 0.013*"oh" + 0.013*"know" + 0.011*"call" + 0.010*"card" + 0.009*"beautiful" + 0.009*"gonna" + 0.008*"enemy" + 0.008*"yes" + 0.008*"slain" + 0.008*"master" + 0.007*"woman" + 0.007*"guy" + 0.007*"wanna" + 0.007*"happy" + 0.007*"boy" + 0.007*"like" + 0.007*"god" + 0.007*"love" + 0.006*"one" + 0.006*"say" + 0.006*"tour"')
+
+TOPIC 2:
+(2, '0.033*"god" + 0.031*"lord" + 0.025*"u" + 0.025*"jesus" + 0.019*"come" + 0.014*"hallelujah" + 0.013*"say" + 0.011*"joy" + 0.010*"death" + 0.010*"church" + 0.010*"life" + 0.009*"said" + 0.009*"let" + 0.008*"word" + 0.008*"love" + 0.008*"day" + 0.007*"one" + 0.007*"know" + 0.007*"christ" + 0.007*"heart" + 0.007*"mary" + 0.006*"thing" + 0.006*"people" + 0.006*"spirit" + 0.006*"father"')
+
+TOPIC 3:
+(3, '0.011*"know" + 0.010*"like" + 0.010*"people" + 0.010*"going" + 0.009*"valentine" + 0.009*"thing" + 0.008*"one" + 0.007*"think" + 0.007*"thats" + 0.007*"also" + 0.007*"see" + 0.007*"get" + 0.006*"really" + 0.006*"would" + 0.006*"work" + 0.006*"want" + 0.005*"year" + 0.005*"right" + 0.005*"well" + 0.005*"time" + 0.005*"u" + 0.005*"dont" + 0.005*"make" + 0.004*"kind" + 0.004*"lot"')
+
+TOPIC 4:
+(4, '0.246*"going" + 0.054*"drop" + 0.051*"go" + 0.042*"come" + 0.034*"gonna" + 0.034*"take" + 0.028*"kill" + 0.026*"get" + 0.024*"check" + 0.022*"sure" + 0.021*"hello" + 0.017*"one" + 0.012*"side" + 0.011*"die" + 0.010*"use" + 0.010*"click" + 0.008*"team" + 0.008*"scared" + 0.007*"sorry" + 0.006*"left" + 0.006*"georgia" + 0.005*"fight" + 0.005*"pig" + 0.005*"know" + 0.004*"say"')
+
+TOPIC 5:
+(5, '0.287*"go" + 0.198*"da" + 0.031*"daddy" + 0.014*"tiger" + 0.014*"let" + 0.011*"oh" + 0.007*"hello" + 0.005*"come" + 0.005*"talk" + 0.005*"belongs" + 0.005*"n" + 0.004*"whoa" + 0.004*"one" + 0.004*"catching" + 0.004*"love" + 0.003*"curious" + 0.003*"yeah" + 0.002*"ya" + 0.002*"get" + 0.002*"gonna" + 0.002*"going" + 0.002*"got" + 0.002*"pitching" + 0.002*"back" + 0.002*"disappeared"')
+
+TOPIC 6:
+(6, '0.385*"oh" + 0.039*"beautiful" + 0.030*"carolina" + 0.028*"shark" + 0.022*"george" + 0.019*"lake" + 0.016*"hi" + 0.013*"tour" + 0.012*"randy" + 0.010*"america" + 0.007*"baby" + 0.006*"boy" + 0.005*"ken" + 0.004*"bye" + 0.004*"yeah" + 0.004*"come" + 0.003*"god" + 0.003*"ya" + 0.003*"top" + 0.002*"right" + 0.002*"love" + 0.002*"bunny" + 0.002*"clip" + 0.002*"video" + 0.002*"one"')
+
+TOPIC 7:
+(7, '0.037*"yeah" + 0.035*"oh" + 0.022*"like" + 0.021*"dont" + 0.018*"eh" + 0.018*"yes" + 0.017*"gonna" + 0.016*"get" + 0.016*"go" + 0.016*"okay" + 0.015*"know" + 0.013*"hey" + 0.012*"got" + 0.011*"right" + 0.011*"one" + 0.009*"thats" + 0.008*"hello" + 0.007*"see" + 0.007*"let" + 0.006*"guy" + 0.006*"good" + 0.006*"going" + 0.006*"alright" + 0.005*"ill" + 0.005*"come"')
+
+TOPIC 8:
+(8, '0.041*"guy" + 0.030*"boom" + 0.021*"got" + 0.020*"gonna" + 0.019*"okay" + 0.017*"come" + 0.017*"get" + 0.016*"see" + 0.015*"oh" + 0.014*"run" + 0.012*"going" + 0.012*"go" + 0.012*"dont" + 0.011*"stop" + 0.011*"one" + 0.010*"need" + 0.009*"let" + 0.008*"die" + 0.008*"right" + 0.008*"chip" + 0.008*"back" + 0.007*"look" + 0.007*"give" + 0.007*"thats" + 0.007*"he"')
+
+TOPIC 9:
+(9, '0.021*"vehicle" + 0.010*"seat" + 0.009*"mile" + 0.008*"rear" + 0.008*"liver" + 0.008*"wheel" + 0.008*"glucose" + 0.007*"control" + 0.006*"tire" + 0.005*"transmission" + 0.005*"fog" + 0.005*"honda" + 0.005*"feature" + 0.005*"suspension" + 0.005*"liter" + 0.005*"lamp" + 0.004*"steering" + 0.004*"ford" + 0.004*"automatic" + 0.004*"satellite" + 0.004*"leather" + 0.004*"passenger" + 0.003*"driver" + 0.003*"stereo" + 0.003*"odometer"')
+
+NUMBER OF DOCS PER CLUSTER:
+CLUSTER 0: 906
+CLUSTER 1: 162
+CLUSTER 2: 138
+CLUSTER 3: 575
+CLUSTER 4: 20
+CLUSTER 5: 17
+CLUSTER 6: 22
+CLUSTER 7: 632
+CLUSTER 8: 132
+CLUSTER 9: 10

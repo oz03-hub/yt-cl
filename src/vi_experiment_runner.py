@@ -18,6 +18,7 @@ from tfidf_clusterer import TfidfClusterer
 from embedding_clusterer import EmbeddingClusterer
 from lda_clusterer import LdaClusterer
 from w2v_tfidf_clusterer import W2vTfidfClusterer
+from train_word2vec import main as train_word2vec
 
 def entropy(labels):
     """Calculate entropy of cluster labels"""
@@ -93,6 +94,8 @@ def run_vi_experiment(
             if random_state_base is not None:
                 config["random_state"] = random_state_base + run_id
             
+            if method == "w2v_tfidf":
+                train_word2vec(data_path)
             # Run the clustering
             labels = run_clustering(method_map[method], data_path, config, df)
         

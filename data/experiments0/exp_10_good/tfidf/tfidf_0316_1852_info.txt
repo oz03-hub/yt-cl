@@ -1,0 +1,365 @@
+tfidf, general info
+n_clusters: 10
+n_words: 25
+num_closest_to_center: 5
+random_state: 42
+
+inertia: 1326.4768096139064
+n_iter: 24
+silhouette_score: -0.006595212283484235
+davies_bouldin_score: 7.879584156580947
+
+TOP WORDS PER CLUSTER:
+CLUSTER 0:
+hey: 195
+vitamin: 97
+deficiency: 82
+b: 44
+lead: 27
+next: 25
+acid: 25
+also: 25
+recycling: 24
+farm: 23
+cause: 22
+disease: 22
+requirement: 21
+see: 18
+coenzyme: 18
+niacin: 17
+c: 17
+syndrome: 17
+form: 17
+old: 16
+seen: 16
+daily: 16
+synthesis: 16
+corner: 15
+used: 14
+
+CLUSTER 1:
+god: 2768
+jesus: 1675
+u: 1334
+know: 1238
+lord: 1073
+one: 1049
+say: 1024
+thing: 812
+time: 789
+people: 709
+life: 698
+word: 670
+spirit: 624
+said: 607
+right: 578
+would: 574
+need: 560
+way: 527
+let: 525
+well: 499
+christ: 496
+see: 487
+day: 483
+church: 479
+love: 449
+
+CLUSTER 2:
+seat: 36
+vehicle: 34
+control: 29
+feature: 26
+wheel: 26
+back: 25
+rear: 25
+right: 23
+system: 23
+automatic: 19
+side: 18
+mile: 18
+one: 18
+front: 18
+driver: 18
+today: 17
+passenger: 15
+drive: 15
+power: 15
+mirror: 15
+transmission: 14
+u: 14
+engine: 13
+well: 13
+include: 12
+
+CLUSTER 3:
+color: 144
+one: 51
+slime: 50
+video: 43
+see: 40
+fall: 40
+let: 39
+put: 38
+make: 35
+little: 34
+guy: 33
+add: 31
+look: 30
+orange: 30
+green: 28
+glue: 27
+blue: 27
+time: 24
+know: 23
+bit: 23
+way: 23
+take: 22
+next: 20
+right: 20
+yellow: 20
+
+CLUSTER 4:
+one: 3302
+know: 2673
+right: 2325
+see: 1924
+well: 1777
+thing: 1705
+time: 1691
+think: 1631
+guy: 1558
+let: 1441
+good: 1438
+make: 1416
+back: 1404
+people: 1400
+say: 1303
+little: 1290
+two: 1208
+first: 1188
+would: 1180
+need: 1159
+he: 1128
+also: 1114
+way: 1085
+look: 1074
+take: 1070
+
+CLUSTER 5:
+stop: 335
+yes: 235
+push: 221
+time: 169
+step: 112
+talking: 96
+everything: 73
+one: 65
+loved: 63
+see: 62
+know: 55
+well: 52
+nutmeg: 50
+snow: 49
+need: 46
+white: 44
+right: 40
+think: 37
+guy: 35
+good: 34
+make: 33
+way: 31
+back: 31
+give: 31
+let: 30
+
+CLUSTER 6:
+know: 6236
+think: 2930
+one: 2896
+right: 2697
+thing: 2156
+well: 2056
+see: 1946
+people: 1774
+time: 1713
+say: 1603
+good: 1574
+mean: 1431
+kind: 1420
+let: 1397
+lot: 1367
+guy: 1362
+way: 1324
+would: 1305
+he: 1302
+there: 1273
+make: 1244
+back: 1210
+look: 1176
+little: 1151
+something: 1120
+
+CLUSTER 7:
+one: 865
+laser: 682
+let: 617
+time: 550
+see: 546
+u: 538
+know: 512
+hallelujah: 489
+tax: 485
+ow: 445
+also: 433
+right: 393
+joy: 392
+make: 388
+well: 388
+think: 375
+people: 366
+say: 357
+would: 356
+two: 341
+need: 333
+take: 327
+first: 321
+good: 304
+way: 300
+
+CLUSTER 8:
+right: 1512
+know: 1297
+one: 1230
+let: 1158
+see: 863
+good: 784
+guy: 732
+well: 731
+god: 706
+think: 616
+need: 614
+he: 609
+look: 599
+back: 593
+run: 586
+wait: 582
+there: 552
+boy: 535
+cant: 505
+time: 491
+way: 456
+alright: 444
+fucking: 440
+make: 434
+thing: 397
+
+CLUSTER 9:
+love: 272
+forward: 212
+ya: 153
+back: 129
+one: 114
+exhale: 110
+good: 101
+say: 98
+right: 96
+sitting: 93
+hand: 91
+well: 89
+let: 88
+inhale: 87
+breath: 75
+time: 69
+body: 67
+knee: 65
+feel: 63
+group: 60
+foot: 56
+way: 56
+side: 55
+center: 55
+left: 54
+
+NUMBER OF DOCS PER CLUSTER:
+CLUSTER 0: 23
+CLUSTER 1: 58
+CLUSTER 2: 20
+CLUSTER 3: 15
+CLUSTER 4: 438
+CLUSTER 5: 71
+CLUSTER 6: 124
+CLUSTER 7: 530
+CLUSTER 8: 136
+CLUSTER 9: 47
+
+CLUSTER CENTERS:
+CLUSTER 0:
+VFDJp-Juqxs
+SoaLR-dox1o
+GNwcH-V7v34
+rgZQl-5Y3MA
+YeXsp-tyxxU
+
+CLUSTER 1:
+uBvqE-PIfsY
+yKrJP-sFvks
+JYPaP-1PNak
+VZpId-iliB4
+jqyvN-su5to
+
+CLUSTER 2:
+eiKiP-UI5Yk
+dUFHY-Xrodw
+cdBEC-eVy3E
+ampQM-RUAKc
+aMbuf-LQcNI
+
+CLUSTER 3:
+rrylH-tPTGk
+gLHWa-di3gk
+zAarA-SJGUk
+QwZSY-BWvsw
+EEuKb-xFSPs
+
+CLUSTER 4:
+yztiY-LucAs
+lusaR-RkQJQ
+KAjBS-XHBcE
+RyVUj-K0RVQ
+FotLc-sx0C8
+
+CLUSTER 5:
+wcVBf-P569c
+sGFTm-6q4Mg
+lFFbY-iU0hg
+pAdrM-VzlEc
+gMSmp-mp_qk
+
+CLUSTER 6:
+OChDq-lZXdc
+ZxTKl-nW61w
+aaEwl-YoVHI
+MHAEx-MXemU
+DhYug-hAyFw
+
+CLUSTER 7:
+LAYrF-dHG6M
+OLuTa-TbWJ0
+nFMEn-GyC_s
+pulyl-kR_tk
+VUybn-nSR34
+
+CLUSTER 8:
+OVbFs-Nrwc8
+COTOx-8SZUU
+rDwXE-DElyM
+SUDDb-X6Ybs
+gZYXc-vO72E
+
+CLUSTER 9:
+xTIEF-A2KW0
+UsPWq-yKuRw
+wPJMj-pSYQw
+RdoOr-5qQjw
+nAgxu-CmqpU
+

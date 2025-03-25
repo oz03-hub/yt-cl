@@ -16,7 +16,7 @@ class W2vTfidfClusterer(BaseClusterer):
     def __init__(
         self, 
         word2vec_path: str = "word2vec_youtube_vectors.kv", 
-        cache_embeddings: bool = True,
+        cache_embeddings: bool = False,
         cache_path: Optional[str] = None,
         **kwargs
     ):
@@ -124,7 +124,6 @@ class W2vTfidfClusterer(BaseClusterer):
         kmeans = KMeans(
             n_clusters=self.n_clusters, 
             random_state=self.random_state,
-            n_init=10  # Use multiple initializations for better results
         )
         kmeans.fit(X)
         self.model = kmeans

@@ -8,6 +8,7 @@ import time
 import json
 import numpy as np
 from pathlib import Path
+from train_word2vec import main as train_word2vec
 
 from tfidf_clusterer import TfidfClusterer
 from embedding_clusterer import EmbeddingClusterer
@@ -114,6 +115,8 @@ def main(
     for method in selected_methods:
         if method in configs:
             config = configs[method]
+            if method == "w2v_tfidf":
+                train_word2vec(data_path)
             tasks.append((method_map[method], data_path, output_dir, config))
     
     # Run experiments

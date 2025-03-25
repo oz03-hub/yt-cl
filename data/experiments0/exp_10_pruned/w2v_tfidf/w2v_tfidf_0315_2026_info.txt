@@ -1,0 +1,365 @@
+w2v_tfidf, general info
+n_clusters: 10
+n_words: 25
+num_closest_to_center: 5
+random_state: 42
+
+inertia: 8909.749294932388
+n_iter: 36
+silhouette_score: 0.05984953653017569
+davies_bouldin_score: 2.613842309715288
+
+TOP WORDS PER CLUSTER:
+CLUSTER 0:
+know: 288
+shit: 220
+fuck: 192
+let: 188
+aint: 180
+fucking: 171
+right: 164
+back: 161
+bitch: 155
+see: 151
+cant: 140
+one: 136
+ill: 136
+time: 128
+never: 115
+look: 109
+take: 104
+say: 103
+man: 102
+wanna: 96
+think: 93
+cause: 86
+hey: 85
+keep: 85
+need: 84
+
+CLUSTER 1:
+know: 383
+right: 378
+one: 373
+god: 284
+let: 273
+guy: 261
+see: 255
+huh: 254
+good: 218
+back: 203
+well: 180
+shit: 172
+alright: 171
+there: 171
+think: 168
+cant: 168
+fuck: 167
+wait: 165
+look: 164
+ill: 164
+he: 163
+need: 160
+time: 153
+game: 152
+fucking: 148
+
+CLUSTER 2:
+god: 286
+u: 216
+know: 176
+jesus: 172
+place: 169
+one: 157
+thing: 149
+right: 129
+life: 125
+say: 124
+lord: 124
+said: 108
+time: 107
+church: 105
+people: 100
+day: 98
+love: 77
+see: 74
+christ: 73
+well: 72
+would: 72
+let: 72
+way: 71
+think: 70
+give: 70
+
+CLUSTER 3:
+one: 576
+see: 419
+right: 417
+little: 398
+well: 339
+know: 337
+back: 315
+look: 286
+let: 278
+two: 268
+good: 252
+time: 239
+think: 232
+guy: 228
+make: 215
+take: 206
+first: 202
+thing: 197
+put: 181
+bit: 180
+way: 178
+there: 178
+three: 166
+would: 158
+need: 155
+
+CLUSTER 4:
+one: 297
+people: 253
+also: 244
+know: 209
+time: 199
+would: 196
+year: 195
+well: 190
+see: 180
+thing: 174
+right: 166
+u: 164
+need: 164
+make: 159
+think: 155
+work: 145
+service: 145
+business: 136
+good: 126
+first: 124
+today: 123
+lot: 122
+new: 121
+say: 119
+let: 116
+
+CLUSTER 5:
+know: 1029
+thing: 474
+one: 448
+think: 417
+people: 393
+right: 343
+see: 306
+say: 290
+would: 277
+time: 276
+well: 249
+love: 249
+lot: 247
+make: 241
+good: 238
+need: 234
+way: 224
+feel: 223
+guy: 222
+mean: 220
+there: 217
+something: 207
+take: 196
+look: 194
+back: 189
+
+CLUSTER 6:
+one: 354
+know: 328
+time: 245
+see: 221
+right: 205
+let: 201
+think: 198
+back: 195
+good: 193
+well: 180
+would: 179
+look: 174
+say: 173
+make: 170
+said: 156
+u: 150
+way: 146
+thing: 143
+little: 140
+could: 134
+take: 132
+he: 127
+two: 123
+day: 123
+life: 122
+
+CLUSTER 7:
+one: 167
+time: 113
+also: 105
+see: 97
+need: 95
+well: 87
+magician: 86
+make: 80
+right: 80
+new: 79
+let: 73
+use: 72
+would: 68
+u: 64
+look: 63
+two: 61
+system: 57
+control: 56
+today: 55
+thing: 55
+people: 54
+know: 54
+back: 53
+food: 53
+product: 53
+
+CLUSTER 8:
+know: 573
+one: 514
+see: 427
+let: 371
+guy: 368
+right: 358
+well: 317
+good: 302
+think: 293
+look: 263
+time: 240
+little: 232
+back: 219
+make: 206
+wanna: 205
+there: 202
+he: 200
+ill: 181
+cant: 176
+way: 175
+thing: 168
+video: 165
+game: 161
+actually: 160
+say: 148
+
+CLUSTER 9:
+video: 245
+music: 231
+guy: 205
+know: 178
+one: 148
+see: 122
+time: 107
+right: 103
+let: 90
+make: 89
+think: 86
+well: 86
+thing: 71
+back: 69
+show: 67
+ill: 66
+day: 63
+channel: 62
+today: 62
+say: 62
+next: 60
+good: 58
+hope: 57
+first: 57
+little: 55
+
+NUMBER OF DOCS PER CLUSTER:
+CLUSTER 0: 158
+CLUSTER 1: 108
+CLUSTER 2: 37
+CLUSTER 3: 188
+CLUSTER 4: 151
+CLUSTER 5: 172
+CLUSTER 6: 284
+CLUSTER 7: 131
+CLUSTER 8: 161
+CLUSTER 9: 89
+
+CLUSTER CENTERS:
+CLUSTER 0:
+VssfX-bjx-U
+cmgBb-gEnsc
+DKFnM-_Igi0
+xXasr-CjJpY
+gdogT-Ibweo
+
+CLUSTER 1:
+laRaQ-c3J5Q
+ELpcl-I08xw
+oocbV-7oWUg
+vWTEr--znaY
+hRmbn-jQLZs
+
+CLUSTER 2:
+RmmOE-_pAys
+MQTnK-k395Y
+uvyvv-t9UAs
+VhWal-vwrJM
+YJWtH-UEB68
+
+CLUSTER 3:
+dEzYU-2NtnU
+dKccg-V2zTU
+QWswf-EQkJI
+hZVlQ-ETQEA
+RVXKl-Yqfrc
+
+CLUSTER 4:
+tTpsT-sd98A
+IwenS-LJt5s
+zqSFx-yofvo
+pTIvM-AGnNY
+lNbyk-x6b2c
+
+CLUSTER 5:
+bHfUd-8MUKM
+ppzTb-x0D3U
+irlio-92psE
+HpKFM-lMFD4
+NMzPX-MERbU
+
+CLUSTER 6:
+pBEWl-5jF6w
+FTBfy-6pp-k
+yufkv-LNhbE
+IpWnS-hqVYk
+UVZMZ-xsls0
+
+CLUSTER 7:
+oRodK-VBgSw
+ZvgEq-ypIvA
+mciSs-P2J-0
+JwTwB-Fj350
+TepBt-pnh4M
+
+CLUSTER 8:
+MrWqv-5ri4U
+nGgVH-5L3nM
+RJigk-Bf3TA
+fdZTx-ujxG0
+kmBrL-Xia64
+
+CLUSTER 9:
+iTsIr-C3VP4
+YQvhR-qH49M
+jzBaz-D3Ces
+HuSIG-Ff7Zc
+jhlWe-r3VOs
+

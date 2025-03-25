@@ -1,0 +1,623 @@
+embedding, general info
+n_clusters: 18
+n_words: 25
+num_closest_to_center: 5
+random_state: 42
+
+inertia: 1737.0078125
+n_iter: 63
+silhouette_score: 0.022080283612012863
+davies_bouldin_score: 4.194121395582446
+
+TOP WORDS PER CLUSTER:
+CLUSTER 0:
+ah: 225
+push: 223
+see: 147
+back: 52
+right: 46
+one: 46
+let: 43
+time: 37
+he: 36
+put: 35
+guy: 32
+good: 30
+need: 29
+look: 29
+enemy: 27
+cant: 26
+know: 26
+hand: 23
+night: 22
+well: 21
+never: 20
+second: 19
+god: 19
+shit: 18
+kill: 18
+
+CLUSTER 1:
+god: 2851
+jesus: 1819
+u: 1694
+know: 1584
+one: 1393
+say: 1348
+lord: 1283
+time: 1095
+thing: 1049
+people: 1010
+right: 842
+said: 840
+let: 821
+life: 753
+word: 733
+see: 732
+way: 716
+would: 714
+need: 676
+hallelujah: 657
+well: 647
+thank: 628
+good: 599
+day: 598
+think: 595
+
+CLUSTER 2:
+guy: 272
+one: 257
+player: 243
+alright: 234
+know: 231
+see: 212
+right: 212
+there: 177
+video: 172
+think: 161
+well: 153
+let: 153
+game: 147
+time: 139
+make: 131
+good: 108
+still: 107
+wait: 105
+mean: 105
+look: 104
+people: 103
+back: 92
+jump: 91
+two: 89
+lot: 89
+
+CLUSTER 3:
+good: 153
+job: 150
+jujitsu: 9
+one: 6
+look: 6
+let: 6
+god: 5
+friend: 5
+jenny: 5
+first: 4
+happened: 4
+name: 4
+know: 4
+number: 3
+please: 3
+win: 3
+daniel: 3
+post: 3
+john: 3
+today: 3
+made: 3
+thank: 3
+albert: 3
+see: 3
+right: 3
+
+CLUSTER 4:
+know: 3577
+one: 2528
+right: 1999
+think: 1436
+see: 1434
+well: 1364
+let: 1297
+time: 1244
+guy: 1233
+say: 1227
+thing: 1224
+little: 1112
+good: 1076
+would: 1016
+back: 948
+death: 928
+people: 880
+look: 873
+need: 868
+make: 850
+actually: 829
+two: 800
+there: 798
+he: 785
+kind: 745
+
+CLUSTER 5:
+music: 31
+song: 2
+playing: 2
+
+CLUSTER 6:
+know: 4684
+one: 4182
+right: 3685
+guy: 2927
+let: 2704
+see: 2493
+good: 2048
+wait: 2003
+well: 1939
+he: 1903
+think: 1900
+run: 1739
+back: 1706
+god: 1662
+look: 1638
+need: 1545
+there: 1532
+fucking: 1490
+ill: 1483
+shit: 1469
+way: 1440
+time: 1423
+take: 1347
+cant: 1324
+game: 1302
+
+CLUSTER 7:
+click: 236
+relax: 224
+one: 94
+look: 82
+see: 79
+guy: 63
+let: 58
+well: 52
+right: 51
+know: 49
+good: 48
+new: 48
+today: 46
+little: 42
+think: 41
+two: 39
+make: 37
+back: 36
+need: 33
+time: 32
+video: 32
+thing: 29
+also: 29
+ill: 28
+color: 28
+
+CLUSTER 8:
+one: 728
+see: 412
+let: 407
+also: 370
+right: 366
+make: 321
+two: 310
+need: 296
+time: 276
+well: 273
+back: 233
+know: 233
+take: 228
+next: 225
+number: 222
+thing: 221
+first: 220
+little: 215
+way: 207
+long: 203
+use: 200
+think: 194
+side: 180
+double: 178
+crochet: 178
+
+CLUSTER 9:
+never: 252
+place: 150
+love: 69
+know: 59
+one: 58
+say: 37
+ill: 33
+need: 29
+someone: 29
+see: 28
+let: 28
+wanna: 28
+feel: 27
+girl: 27
+cant: 25
+tell: 25
+baby: 24
+could: 23
+night: 23
+time: 23
+shes: 23
+good: 20
+make: 20
+take: 19
+heart: 19
+
+CLUSTER 10:
+ah: 233
+let: 220
+know: 197
+one: 150
+n: 142
+back: 116
+randy: 110
+right: 106
+see: 101
+men: 92
+man: 86
+good: 85
+look: 85
+time: 77
+guy: 75
+say: 70
+take: 69
+hey: 63
+cant: 61
+shit: 61
+ill: 61
+aint: 60
+make: 59
+he: 59
+boy: 57
+
+CLUSTER 11:
+death: 725
+thunder: 704
+man: 561
+love: 403
+wood: 299
+know: 261
+bad: 245
+dao: 243
+hey: 240
+hate: 237
+wanna: 233
+shining: 226
+time: 187
+play: 184
+u: 184
+feel: 178
+fireman: 167
+one: 158
+ya: 158
+ooh: 157
+say: 156
+afraid: 138
+never: 135
+see: 133
+long: 123
+
+CLUSTER 12:
+air: 138
+one: 120
+engine: 111
+well: 108
+car: 75
+right: 74
+see: 74
+back: 70
+wheel: 67
+little: 67
+vehicle: 64
+let: 63
+time: 62
+exhaust: 62
+control: 60
+lot: 58
+make: 58
+seat: 57
+also: 56
+take: 55
+look: 52
+there: 52
+side: 51
+new: 51
+today: 49
+
+CLUSTER 13:
+know: 1795
+one: 1318
+he: 1164
+think: 1112
+right: 1089
+good: 901
+game: 878
+well: 864
+back: 728
+see: 712
+time: 685
+play: 634
+first: 566
+thing: 555
+guy: 548
+look: 528
+make: 526
+two: 525
+mean: 519
+let: 507
+lot: 491
+take: 475
+point: 471
+team: 462
+way: 459
+
+CLUSTER 14:
+know: 1455
+people: 1033
+one: 997
+think: 921
+thing: 805
+right: 802
+well: 665
+time: 662
+see: 661
+would: 602
+u: 594
+say: 572
+also: 541
+tax: 534
+way: 519
+good: 492
+make: 491
+lot: 485
+need: 473
+year: 435
+kind: 429
+let: 425
+take: 386
+there: 381
+work: 373
+
+CLUSTER 15:
+know: 72
+people: 67
+please: 62
+subscribe: 60
+channel: 58
+year: 48
+said: 46
+one: 44
+think: 44
+time: 41
+make: 39
+right: 36
+also: 35
+first: 33
+u: 33
+would: 32
+need: 31
+day: 27
+see: 26
+work: 26
+even: 25
+say: 24
+thing: 24
+there: 23
+number: 23
+
+CLUSTER 16:
+know: 1189
+thing: 699
+feel: 596
+right: 563
+think: 517
+people: 515
+one: 478
+time: 467
+see: 399
+kind: 393
+something: 379
+say: 369
+well: 369
+make: 354
+theyre: 351
+give: 343
+person: 336
+life: 335
+lot: 317
+need: 312
+let: 308
+back: 296
+there: 295
+take: 290
+love: 282
+
+CLUSTER 17:
+hey: 948
+team: 663
+drop: 552
+know: 490
+nice: 487
+die: 485
+bella: 473
+test: 449
+ding: 448
+boom: 447
+turtle: 441
+america: 432
+one: 417
+yes: 415
+scared: 392
+guy: 363
+good: 332
+kill: 317
+god: 291
+bang: 280
+say: 274
+daddy: 228
+call: 228
+mary: 226
+master: 225
+
+NUMBER OF DOCS PER CLUSTER:
+CLUSTER 0: 208
+CLUSTER 1: 77
+CLUSTER 2: 105
+CLUSTER 3: 154
+CLUSTER 4: 202
+CLUSTER 5: 33
+CLUSTER 6: 338
+CLUSTER 7: 152
+CLUSTER 8: 131
+CLUSTER 9: 165
+CLUSTER 10: 206
+CLUSTER 11: 160
+CLUSTER 12: 71
+CLUSTER 13: 98
+CLUSTER 14: 129
+CLUSTER 15: 126
+CLUSTER 16: 98
+CLUSTER 17: 163
+
+CLUSTER CENTERS:
+CLUSTER 0:
+bigOW-mtZbA
+TJaJF-UgbNs
+dgzHP-i0e8Y
+olJwD-E44mw
+spiia-GbusY
+
+CLUSTER 1:
+lxUYy-aWu2Q
+jqyvN-su5to
+gGcDO-RojVE
+frnUf-oLOBI
+utsbJ-BB28M
+
+CLUSTER 2:
+xTQas-1v5Os
+VEIUm-kaYS4
+plJZH-w1hDM
+fxENW-8PBcE
+qwcMG-aTT20
+
+CLUSTER 3:
+TOaLT-YCe_w
+bzILO-1FFK0
+CAOSv-pCgSI
+TIRcA-MSVcs
+dKDeI-XckOg
+
+CLUSTER 4:
+iRTdV-evIPs
+jllpu-JPjvE
+REfmi-QzVRc
+ILjUH-H9HpU
+dzqRK-G1Nv4
+
+CLUSTER 5:
+AOZIY-AwsjM
+CcTXv-LzP-U
+CoiQI-Z3y5Q
+EaNgV-zwvYc
+MFhKe-uNmBw
+
+CLUSTER 6:
+aVXTB-7UJV4
+BsPSi-oH-TY
+BGoJe-8HuSM
+CZiQG-xJ0SM
+AgMIS-4d8ZQ
+
+CLUSTER 7:
+smmVy-rT0Ow
+pukCS-IQVwc
+NHJkn-6OMl4
+enDsD-xkooA
+mKOSS-EsGRg
+
+CLUSTER 8:
+DMYKC-68GIg
+jvkPi-gI0Qw
+ugRba-Vt5js
+KoJel-qAPgo
+tuMxY-KPXbk
+
+CLUSTER 9:
+Ttsal-KEolw
+ttSAL-siOgw
+tkLLP-lalzk
+bfoeH-xN0qI
+NNRTj-w4ADc
+
+CLUSTER 10:
+llSYh-aUiS8
+QwVqG-UnHa4
+BjqOs-4QDZY
+ZHXat-Tb3W8
+wufFm-5KXxg
+
+CLUSTER 11:
+XhReh-116jw
+EMyTH-U17s8
+JCykO-BBpXc
+fsaYa-tUF6Y
+xHuAm-aWfpg
+
+CLUSTER 12:
+oIosF-2soRc
+wedFi-iFSeY
+TepBt-pnh4M
+BbHjp-N1t0s
+aMbuf-LQcNI
+
+CLUSTER 13:
+CGsmn-I75_k
+bDIxe-9RV24
+Iisus-tyeng
+JVQvl-Cbvns
+fmgRE-ebvZE
+
+CLUSTER 14:
+Hoqvb-G4Nr8
+HpKFM-lMFD4
+fXJLx-drDu8
+sblYy-YA9v4
+jfuoz-HjI8w
+
+CLUSTER 15:
+OLHuF-W0CW8
+mKGtL-Hy2P4
+pATZm-YJNFI
+byXXF-KD0PQ
+Kqufi-6kvgM
+
+CLUSTER 16:
+ggcdO-VlcO4
+GNbZu-nop2g
+ttrIB-795kc
+unzij-oZXLA
+DVzZX-dXs74
+
+CLUSTER 17:
+diKDV-eetHc
+GkkzP-Cxc2k
+CsLUd-7EqaQ
+ZsAQm-qpGX8
+gGJtb-Ndlws
+
